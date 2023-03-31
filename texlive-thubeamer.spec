@@ -1,6 +1,6 @@
 Name:		texlive-thubeamer
 Version:	61071
-Release:	1
+Release:	2
 Summary:	A beamer theme for Tsinghua University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thubeamer
